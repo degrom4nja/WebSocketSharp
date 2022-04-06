@@ -1,0 +1,11 @@
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\bin\x64\Debug\RtcHttp.dll
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\bin\x64\Debug\RtcHttp.pdb
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\bin\x64\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\bin\x64\Debug\System.Memory.dll
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\bin\x64\Debug\System.Buffers.dll
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\obj\x64\Debug\RtcHttp.csprojAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\obj\x64\Debug\RtcHttp.csproj.CopyComplete
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\obj\x64\Debug\RtcHttp.dll
+C:\Users\Root\Documents\Visual Studio 2019\Projects\RtcHttp\RtcHttp\obj\x64\Debug\RtcHttp.pdb
